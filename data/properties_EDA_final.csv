@@ -1,0 +1,586 @@
+administración,estrato,antiguedad,área,habitaciones,baños,garajes,elevadores,tipo_de_inmueble,porteria,precio,Localidad,Tasa_Homicidios_100k,Tasa_Hurtos_100k,incluye_remodelado,incluye_deposito,incluye_zona_de_lavanderia,incluye_gas,incluye_parqueadero
+532000,4,37,86.0,1,1,1,1,Apartamento,24 hrs,313900000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+0,6,7,77.0,1,2,2,1,Apartamento,24 hrs,440100000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+811893,4,14,109.0,3,4,2,1,Apartamento,24 hrs,495000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+400200,4,11,76.0,3,2,1,2,Apartamento,24 hrs,442300000.0,SUBA,9.8,750.0,True,False,False,True,True
+270000,4,20,105.0,4,2,1,0,Casa,24 hrs,387000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+211000,3,19,67.0,3,2,1,0,Apartamento,No,271500000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+226000,4,24,72.0,3,2,1,2,Apartamento,24 hrs,334000000.0,FONTIBON,10.1,810.0,True,True,True,True,True
+529000,4,30,77.0,2,2,1,1,Apartamento,24 hrs,444200000.0,USME,18.9,680.0,True,False,False,True,False
+130000,3,9,59.0,3,2,1,1,Apartamento,24 hrs,256800000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+453000,5,8,54.0,1,2,1,1,Apartamento,24 hrs,384200000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+282000,4,33,90.0,3,3,1,1,Apartamento,24 hrs,389300000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+270000,4,3,67.0,3,2,1,2,Apartamento,24 hrs,462100000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+660000,5,14,79.0,3,2,2,1,Apartamento,24 hrs,452000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+113000,2,5,38.0,2,1,0,0,Apartamento,24 hrs,200000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+121400,3,15,61.0,3,2,0,0,Apartamento,No,268400000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+212000,3,27,70.0,3,2,1,0,Apartamento,24 hrs,301900000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+521000,6,28,85.0,2,2,1,1,Apartamento,24 hrs,493300000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+330000,5,35,78.0,3,2,1,1,Apartamento,24 hrs,360800000.0,SUBA,9.8,750.0,True,False,False,True,True
+423000,4,27,86.0,3,2,1,0,Apartamento,24 hrs,329000000.0,SUBA,9.8,750.0,True,False,False,True,True
+148400,3,16,71.0,3,2,0,0,Apartamento,24 hrs,261100000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+244200,4,35,62.0,2,2,1,1,Apartamento,24 hrs,296600000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+91100,3,14,56.0,3,2,0,0,Apartamento,24 hrs,218900000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+477000,5,36,72.0,3,2,1,1,Apartamento,24 hrs,395700000.0,SUBA,9.8,750.0,True,True,False,True,True
+564000,5,18,81.0,2,2,1,1,Apartamento,24 hrs,385000000.0,SUBA,9.8,750.0,True,False,False,True,False
+145000,3,9,47.0,3,2,1,1,Apartamento,24 hrs,228400000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+90000,2,11,45.0,3,2,0,0,Apartamento,24 hrs,164000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+74000,4,5,31.0,1,1,0,1,Apartamento,24 hrs,186000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+80000,3,17,37.0,2,1,0,0,Apartamento,24 hrs,133500000.0,SUBA,9.8,750.0,True,False,False,True,True
+91800,2,3,38.0,1,1,0,1,Apartamento,24 hrs,132800000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+227000,3,4,77.0,3,2,1,4,Apartamento,24 hrs,353300000.0,KENNEDY,25.4,950.0,True,True,False,True,True
+106000,3,2,40.0,2,1,0,2,Apartamento,24 hrs,175000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+57000,2,18,47.0,2,1,0,0,Apartamento,24 hrs,132200000.0,BOSA,21.5,880.0,True,False,False,True,True
+80000,2,10,52.0,3,2,0,0,Apartamento,24 hrs,170600000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+90000,3,10,51.0,3,2,0,0,Apartamento,24 hrs,169000000.0,SUBA,9.8,750.0,True,False,False,True,True
+132000,3,22,43.0,2,1,0,0,Apartamento,24 hrs,177700000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+175000,3,16,70.0,3,2,0,1,Apartamento,24 hrs,249400000.0,ENGATIVA,11.3,790.0,True,False,True,True,True
+50000,3,17,40.0,2,1,0,0,casa con conjunto cerrado,24 hrs,118900000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+0,3,31,54.0,3,2,0,0,Apartamento,24 hrs,183400000.0,SUBA,9.8,750.0,True,True,False,True,True
+86100,3,25,39.0,2,1,0,0,Apartamento,24 hrs,148600000.0,SUBA,9.8,750.0,True,False,True,True,True
+132400,3,5,46.0,3,1,0,2,Apartamento,24 hrs,177800000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+139200,3,10,54.0,3,2,0,1,Apartamento,24 hrs,188900000.0,SUBA,9.8,750.0,True,False,False,True,True
+83000,2,22,42.0,2,1,0,0,Apartamento,24 hrs,130400000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+105500,2,5,32.0,2,1,0,1,Apartamento,24 hrs,110000000.0,BOSA,21.5,880.0,True,False,False,True,True
+170000,3,10,54.0,3,2,0,1,Apartamento,24 hrs,192700000.0,SUBA,9.8,750.0,True,False,False,True,True
+110000,3,4,41.0,2,1,0,1,Apartamento,24 hrs,178200000.0,BOSA,21.5,880.0,True,False,False,True,True
+95000,2,24,51.0,3,1,0,0,Apartamento,24 hrs,147200000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+130400,3,4,53.0,3,1,0,2,Apartamento,24 hrs,163600000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+130000,2,8,47.0,3,1,0,2,Apartamento,24 hrs,135000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+100000,3,17,50.0,2,1,0,0,Apartamento,24 hrs,180000000.0,SUBA,9.8,750.0,True,False,False,True,True
+40000,3,29,50.0,3,1,0,0,Apartamento,No,152600000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+125300,3,2,46.0,2,1,0,1,Apartamento,24 hrs,160400000.0,ENGATIVA,11.3,790.0,True,True,False,True,False
+67000,2,13,42.0,2,1,0,0,Apartamento,24 hrs,116200000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+41001,2,18,38.0,2,1,0,0,Apartamento,24 hrs,126000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+80000,2,31,44.0,2,1,0,0,Apartamento,24 hrs,99200000.0,USME,18.9,680.0,True,False,False,True,True
+56500,2,7,41.0,2,1,0,0,Apartamento,24 hrs,99300000.0,USME,18.9,680.0,True,False,False,True,True
+105000,2,17,53.0,2,1,0,0,casa con conjunto cerrado,24 hrs,156300000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+79000,2,6,47.0,3,1,0,0,Apartamento,24 hrs,125700000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+307000,4,15,59.0,3,2,1,0,Apartamento,24 hrs,291100000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+298000,4,32,74.0,3,2,1,0,Apartamento,24 hrs,274000000.0,SUBA,9.8,750.0,True,False,False,True,True
+54500,2,8,57.0,3,1,0,0,Apartamento,24 hrs,157800000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+145600,3,7,62.0,3,2,0,3,Apartamento,24 hrs,190500000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+50000,3,17,62.0,3,2,0,1,Apartamento,24 hrs,244100000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+79800,2,16,52.0,3,2,0,0,Apartamento,24 hrs,169600000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+312000,3,14,97.0,3,2,1,0,casa con conjunto cerrado,24 hrs,375000000.0,SUBA,9.8,750.0,True,True,False,True,True
+259000,3,14,72.0,3,2,2,1,Apartamento,24 hrs,389800000.0,SUBA,9.8,750.0,True,True,False,True,True
+635000,6,5,77.0,2,3,1,1,Apartamento,24 hrs,600000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+324000,4,15,88.0,3,2,1,1,Apartamento,24 hrs,415000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+93000,2,5,45.0,2,1,0,0,Apartamento,24 hrs,120000000.0,USME,18.9,680.0,True,False,False,True,True
+126400,3,10,51.0,2,2,0,0,Apartamento,24 hrs,175000000.0,SUBA,9.8,750.0,True,False,False,True,False
+75000,2,11,43.0,3,2,0,0,Apartamento,24 hrs,160200000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+648000,6,11,65.0,2,2,1,1,Apartamento,24 hrs,472000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+70000,2,8,46.0,3,1,0,1,Apartamento,24 hrs,140000000.0,BOSA,21.5,880.0,True,False,False,True,False
+54000,2,15,40.0,2,1,0,0,Apartamento,24 hrs,117800000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+78000,3,10,41.0,2,1,0,1,Apartamento,24 hrs,186500000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+170000,3,13,59.0,3,2,0,1,Apartamento,24 hrs,218421053.0,KENNEDY,25.4,950.0,True,False,False,True,True
+208000,2,13,51.0,3,2,0,0,Apartamento,24 hrs,170000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+82000,3,10,43.0,2,1,0,0,Apartamento,24 hrs,130466000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+125000,2,3,51.0,2,1,0,1,Apartamento,24 hrs,174030000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+160400,3,5,39.0,2,1,0,3,Apartamento,24 hrs,183000000.0,SUBA,9.8,750.0,True,False,False,True,True
+649900,5,28,109.0,3,3,1,1,Apartamento,24 hrs,534760000.0,SUBA,9.8,750.0,True,True,False,True,False
+141200,3,6,33.0,1,1,0,1,Apartamento,24 hrs,151600000.0,SUBA,9.8,750.0,True,False,False,True,True
+67000,2,10,42.0,3,1,0,0,Apartamento,24 hrs,158830000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+145500,3,8,62.0,3,2,0,3,Apartamento,24 hrs,190000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+140000,3,14,78.0,3,2,0,0,Apartamento,24 hrs,285000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+145000,3,14,61.0,2,2,0,0,Apartamento,24 hrs,225000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+150000,2,10,52.0,3,2,0,0,Apartamento,24 hrs,170000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+273100,3,13,58.0,3,2,1,1,Apartamento,24 hrs,283000000.0,ENGATIVA,11.3,790.0,True,True,False,True,True
+88000,3,15,73.0,4,2,0,0,casa con conjunto cerrado,24 hrs,212400000.0,SUBA,9.8,750.0,True,False,False,True,False
+368000,3,9,84.0,3,2,1,3,Apartamento,24 hrs,368000000.0,SUBA,9.8,750.0,True,False,False,True,False
+75000,2,7,47.0,2,1,0,0,Apartamento,24 hrs,170000000.0,CIUDAD BOLIVAR,35.0,650.0,True,True,False,True,True
+61200,2,11,44.0,2,1,0,0,Apartamento,24 hrs,120500000.0,USME,18.9,680.0,True,False,False,True,True
+120000,2,2,50.0,3,2,0,2,Apartamento,No,202000000.0,BOSA,21.5,880.0,True,False,False,True,False
+65000,3,20,53.0,2,1,0,0,casa con conjunto cerrado,24 hrs,180000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+417000,4,14,93.0,3,3,1,1,Apartamento,24 hrs,440000000.0,SUBA,9.8,750.0,True,True,False,True,True
+128200,3,11,48.0,3,1,0,0,Apartamento,24 hrs,166600000.0,SUBA,9.8,750.0,True,False,False,True,True
+213000,4,33,51.0,2,1,1,0,Apartamento,24 hrs,211000000.0,SUBA,9.8,750.0,True,False,False,True,False
+96000,2,12,43.0,2,1,0,0,Apartamento,24 hrs,168000000.0,SUBA,9.8,750.0,True,False,False,True,True
+144800,3,10,59.0,3,2,0,3,Apartamento,24 hrs,174000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+144800,3,10,59.0,3,2,1,1,Apartamento,24 hrs,175000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+290000,3,10,68.0,3,2,1,1,Apartamento,24 hrs,354000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+957000,6,31,108.0,3,2,2,1,Apartamento,24 hrs,581745000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+119100,3,11,44.0,2,1,0,2,Apartamento,24 hrs,190000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+82000,2,16,47.0,3,1,0,0,Apartamento,24 hrs,150000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+77800,2,8,50.0,3,2,0,0,Apartamento,24 hrs,161165050.0,USAQUEN,8.5,850.0,True,False,False,True,False
+125300,3,3,47.0,2,1,0,1,Apartamento,24 hrs,150800000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+177000,4,12,51.0,3,1,0,0,Apartamento,24 hrs,211060000.0,SUBA,9.8,750.0,True,False,False,True,True
+119000,3,8,55.0,3,2,0,1,Apartamento,24 hrs,174700000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+980000,6,37,110.0,3,2,2,0,Apartamento,24 hrs,564385000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+350000,4,4,68.0,3,2,1,2,Apartamento,24 hrs,450000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+84000,2,23,47.0,2,1,0,0,Apartamento,24 hrs,142500000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+70500,2,14,47.0,3,1,0,0,Apartamento,24 hrs,134200000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+210000,4,20,63.0,3,2,1,0,Apartamento,24 hrs,302500000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+150000,3,7,38.0,2,1,0,2,Apartamento,24 hrs,176500000.0,SUBA,9.8,750.0,True,False,False,True,True
+100000,2,24,55.0,3,2,0,0,Apartamento,24 hrs,164510000.0,SUBA,9.8,750.0,True,False,True,True,True
+140000,3,2,36.0,2,1,0,1,Apartamento,24 hrs,215000000.0,LOS MARTIRES,20.2,1300.0,True,False,False,True,False
+117000,3,1,42.0,2,1,0,1,Apartamento,24 hrs,195350000.0,BOSA,21.5,880.0,True,False,False,True,True
+0,3,1,49.0,3,1,1,0,Apartamento,24 hrs,142340000.0,BOSA,21.5,880.0,True,False,False,True,False
+119900,2,8,46.0,3,1,0,1,Apartamento,24 hrs,132460000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+88200,2,11,48.0,3,1,0,0,Apartamento,24 hrs,110300000.0,USME,18.9,680.0,True,False,False,True,True
+144800,3,8,59.0,3,2,0,3,Apartamento,24 hrs,177000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+106000,2,3,48.0,3,1,0,2,Apartamento,24 hrs,162000000.0,BOSA,21.5,880.0,True,False,False,True,True
+81100,2,13,55.0,3,2,0,0,Apartamento,24 hrs,155000000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+281300,4,16,93.0,3,2,1,1,Apartamento,24 hrs,442000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+118000,3,28,66.0,3,1,0,0,Apartamento,24 hrs,165000000.0,SUBA,9.8,750.0,True,False,False,True,False
+67000,1,15,49.0,3,1,0,0,Apartamento,24 hrs,155085000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+166000,4,7,58.0,2,2,1,1,Apartamento,No,371000000.0,TEUSAQUILLO,6.5,1100.0,True,True,True,True,True
+269100,4,19,105.0,3,2,1,0,casa con conjunto cerrado,24 hrs,400000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+300000,4,28,63.0,3,2,1,0,Apartamento,24 hrs,272000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+70000,2,11,38.0,3,1,0,0,Apartamento,24 hrs,110110000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+134200,3,15,55.0,3,2,0,0,Apartamento,24 hrs,235500000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+75400,2,13,50.0,3,1,0,0,Apartamento,24 hrs,138000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+308000,4,30,57.0,3,2,0,0,Apartamento,24 hrs,260000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+90000,2,10,42.0,2,1,0,0,Apartamento,24 hrs,119665000.0,USME,18.9,680.0,True,False,False,True,True
+327000,3,18,75.0,2,2,1,0,Apartamento,24 hrs,317000000.0,SUBA,9.8,750.0,True,False,False,True,True
+61000,2,3,57.0,3,2,0,0,Apartamento,24 hrs,148000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+125400,3,15,49.0,3,1,0,0,Apartamento,24 hrs,193000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+117350,2,4,47.0,2,1,0,1,Apartamento,24 hrs,164930000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,True,True,True
+160000,4,1,56.0,2,2,1,1,Apartamento,24 hrs,407982000.0,LOS MARTIRES,20.2,1300.0,True,True,False,True,True
+58800,2,3,45.0,2,1,0,0,Apartamento,24 hrs,115000000.0,USME,18.9,680.0,True,False,False,True,True
+204000,3,2,52.0,3,2,1,1,Apartamento,24 hrs,244706000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+0,2,8,65.0,3,2,1,1,Apartamento,24 hrs,308428571.0,SUBA,9.8,750.0,True,True,False,True,True
+451200,4,7,88.0,3,3,2,1,Apartamento,24 hrs,450000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+160000,2,11,42.0,3,1,0,0,Apartamento,No,110000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+130000,3,15,63.0,3,2,0,0,Apartamento,24 hrs,287000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+257700,3,15,78.0,3,2,1,1,Apartamento,No,315000000.0,SUBA,9.8,750.0,True,False,False,True,True
+55000,2,14,39.0,2,1,0,0,Apartamento,24 hrs,120060018.0,USME,18.9,680.0,True,False,False,True,True
+329000,3,2,63.0,2,2,1,1,Apartamento,24 hrs,353800000.0,KENNEDY,25.4,950.0,True,True,False,True,True
+185000,3,9,47.0,2,2,0,0,Apartamento,24 hrs,156400000.0,RAFAEL URIBE URIBE,17.1,700.0,True,False,False,True,False
+585000,4,12,149.0,3,2,2,1,Apartamento,24 hrs,780000000.0,SUBA,9.8,750.0,True,True,True,True,True
+74000,2,12,37.0,2,1,0,0,Apartamento,24 hrs,115514000.0,USME,18.9,680.0,True,False,False,True,True
+0,2,10,52.0,3,2,0,1,Apartamento,24 hrs,158690000.0,BOSA,21.5,880.0,True,False,False,True,True
+59000,2,5,48.0,3,1,0,0,Apartamento,24 hrs,123000000.0,KENNEDY,25.4,950.0,False,True,True,False,True
+0,3,27,75.0,3,2,1,0,Apartamento,24 hrs,272730000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+142645,4,1,35.0,1,1,0,1,Apartamento,24 hrs,220000000.0,USAQUEN,8.5,850.0,False,False,True,False,True
+50000,2,12,41.0,2,1,0,0,Apartamento,24 hrs,107100000.0,BOSA,21.5,880.0,True,False,False,True,True
+85000,2,23,47.0,3,1,0,0,Apartamento,24 hrs,145000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+70000,2,26,60.0,3,2,0,0,Apartamento,24 hrs,150000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+330000,4,12,89.0,3,2,1,1,Apartamento,24 hrs,550000000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+579000,4,35,119.0,3,2,1,1,Apartamento,24 hrs,439000000.0,SUBA,9.8,750.0,True,True,False,True,False
+144000,3,2,42.0,1,1,0,1,Apartamento,24 hrs,216000000.0,SUBA,9.8,750.0,True,False,False,True,False
+100000,3,16,55.0,3,2,0,0,Apartamento,24 hrs,170000000.0,SUBA,9.8,750.0,True,False,False,True,True
+130200,3,13,59.0,2,2,0,0,Apartamento,24 hrs,195000000.0,SUBA,9.8,750.0,True,False,False,True,True
+112600,2,5,41.0,3,1,0,2,Apartamento,24 hrs,170500000.0,SAN CRISTOBAL,12.8,720.0,True,False,False,True,True
+50000,1,6,49.0,3,1,0,0,Apartamento,24 hrs,103000000.0,USME,18.9,680.0,True,False,False,True,True
+48000,1,10,45.0,2,1,0,0,Apartamento,No,98000000.0,USME,18.9,680.0,True,False,False,True,False
+250000,3,27,45.0,2,1,1,0,Apartamento,24 hrs,205100000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+240000,3,5,55.0,2,2,1,2,Apartamento,24 hrs,258500000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+210482,5,36,52.0,1,1,1,0,Apartamento,No,242000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+232000,4,29,60.0,3,2,1,0,Apartamento,24 hrs,257000000.0,USAQUEN,8.5,850.0,True,False,True,True,True
+80000,2,12,41.0,2,1,0,0,Apartamento,24 hrs,123500000.0,USME,18.9,680.0,True,False,False,True,True
+150000,3,36,66.0,3,1,1,0,Apartamento,24 hrs,240000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+54000,3,27,49.0,3,1,0,0,Apartamento,24 hrs,171000000.0,SUBA,9.8,750.0,True,False,False,True,True
+121000,3,15,52.0,3,1,0,0,Apartamento,No,162000000.0,SUBA,9.8,750.0,True,False,False,True,False
+155333,4,1,31.0,1,1,0,1,Apartamento,24 hrs,242000000.0,SUBA,9.8,750.0,True,False,False,True,True
+80000,3,17,37.0,2,1,0,0,Apartamento,24 hrs,140000000.0,SUBA,9.8,750.0,True,False,False,True,True
+0,3,25,65.0,3,2,1,0,Apartamento,No,279000000.0,PUENTE ARANDA,15.9,870.0,True,False,False,True,False
+0,3,29,63.0,3,2,0,0,Apartamento,24 hrs,230242623.0,USAQUEN,8.5,850.0,True,False,False,True,False
+78300,2,14,47.0,3,1,0,0,Apartamento,24 hrs,135000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+45000,2,16,39.0,2,1,0,0,casa con conjunto cerrado,24 hrs,110000000.0,BOSA,21.5,880.0,True,False,True,True,True
+0,2,5,89.0,3,2,1,1,Apartamento,24 hrs,485000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+274000,3,18,83.0,3,2,1,0,casa con conjunto cerrado,24 hrs,334000000.0,SUBA,9.8,750.0,True,False,False,True,True
+224000,3,29,39.0,1,1,0,0,Apartamento,No,192000000.0,SUBA,9.8,750.0,True,False,False,True,False
+74000,3,16,44.0,2,1,0,0,casa con conjunto cerrado,24 hrs,163800000.0,SUBA,9.8,750.0,True,False,False,True,True
+103000,3,22,53.0,3,1,0,0,Apartamento,24 hrs,165000000.0,SUBA,9.8,750.0,True,False,False,True,True
+113000,3,23,53.0,3,1,0,0,Apartamento,No,164000000.0,SUBA,9.8,750.0,True,False,False,True,False
+464000,6,18,61.0,1,2,1,1,Apartamento,24 hrs,341100000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+100000,2,8,49.0,3,2,0,0,Apartamento,24 hrs,147000000.0,BOSA,21.5,880.0,False,False,False,False,True
+110000,2,13,59.0,3,2,0,0,Apartamento,24 hrs,155000000.0,SUBA,9.8,750.0,True,False,False,True,True
+112600,3,5,45.0,3,1,0,2,Apartamento,24 hrs,167500000.0,SAN CRISTOBAL,12.8,720.0,True,False,False,True,True
+56000,2,14,40.0,3,1,0,0,Apartamento,24 hrs,113200000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+100000,3,16,56.0,3,2,0,0,Apartamento,24 hrs,226000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+167000,3,11,50.0,3,2,0,1,Apartamento,24 hrs,180000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+437100,4,16,110.0,3,2,1,1,Apartamento,24 hrs,560000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+68000,3,5,56.0,2,2,1,0,Apartamento,No,235000000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+239000,3,28,61.0,3,2,0,0,Apartamento,24 hrs,250000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+70000,2,6,50.0,2,1,0,0,Apartamento,24 hrs,143000000.0,BOSA,21.5,880.0,True,False,False,True,True
+114000,3,10,55.0,3,2,0,1,Apartamento,24 hrs,170000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+95000,2,8,40.0,3,2,0,0,Apartamento,24 hrs,165000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+122600,3,7,53.0,2,2,0,1,Apartamento,24 hrs,183500000.0,SUBA,9.8,750.0,True,False,False,True,True
+88000,2,8,42.0,3,1,0,0,Apartamento,24 hrs,139360000.0,RAFAEL URIBE URIBE,17.1,700.0,True,False,False,True,True
+160000,3,10,49.0,3,2,0,2,Apartamento,24 hrs,199500000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+318700,4,3,87.0,3,2,1,1,Apartamento,24 hrs,466210000.0,KENNEDY,25.4,950.0,True,True,True,True,True
+55000,2,14,38.0,2,1,0,0,Apartamento,24 hrs,112000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+250000,4,14,58.0,3,2,1,1,Apartamento,24 hrs,317860000.0,SUBA,9.8,750.0,True,True,False,True,True
+440999,6,37,141.0,3,3,1,1,Apartamento,24 hrs,745000000.0,USAQUEN,8.5,850.0,True,True,True,True,True
+140700,5,20,84.0,3,2,2,1,Apartamento,24 hrs,455000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+75000,3,8,51.0,3,2,0,1,Apartamento,24 hrs,146500000.0,BOSA,21.5,880.0,True,False,False,True,True
+61200,2,9,40.0,1,1,0,0,Apartamento,24 hrs,132000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+172800,3,20,54.0,2,3,0,0,Apartamento,24 hrs,213170000.0,SUBA,9.8,750.0,True,False,False,True,False
+491400,5,8,105.0,3,2,2,1,Apartamento,24 hrs,577000000.0,SUBA,9.8,750.0,True,True,False,True,True
+87600,3,20,61.0,3,2,0,0,casa con conjunto cerrado,24 hrs,191000000.0,SUBA,9.8,750.0,True,False,False,True,False
+138600,3,8,55.0,3,2,0,1,Apartamento,24 hrs,198600000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,False
+60000,1,4,43.0,3,1,0,0,Apartamento,24 hrs,124000000.0,USME,18.9,680.0,True,False,False,True,True
+91000,2,14,50.0,3,2,0,0,Apartamento,24 hrs,151000000.0,BOSA,21.5,880.0,True,False,False,True,True
+216900,3,15,67.0,3,2,1,0,Apartamento,24 hrs,262000000.0,SUBA,9.8,750.0,True,False,False,True,True
+166000,3,20,69.0,3,3,1,0,casa con conjunto cerrado,24 hrs,276000000.0,SUBA,9.8,750.0,True,False,False,True,False
+63000,2,8,43.0,3,2,0,0,Apartamento,24 hrs,160000000.0,SUBA,9.8,750.0,True,False,False,True,True
+103000,3,10,56.0,2,2,1,1,Apartamento,No,235500000.0,SUBA,9.8,750.0,True,True,False,True,True
+150800,3,14,61.0,3,2,0,0,Apartamento,24 hrs,254000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+205000,4,6,53.0,3,2,1,1,Apartamento,24 hrs,339870000.0,SUBA,9.8,750.0,True,True,False,True,False
+445900,4,15,116.0,3,2,2,1,Apartamento,24 hrs,540000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+120000,3,2,43.0,2,1,0,1,Apartamento,No,180000000.0,BOSA,21.5,880.0,True,False,False,True,True
+65000,2,13,46.0,2,1,0,0,Apartamento,24 hrs,119000000.0,BOSA,21.5,880.0,True,False,False,True,True
+601000,5,39,54.0,2,1,1,1,Apartamento,24 hrs,357000000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+452000,5,26,102.0,3,3,2,0,Apartamento,24 hrs,476000000.0,SUBA,9.8,750.0,True,True,False,True,True
+63000,2,13,46.0,2,1,0,0,Apartamento,24 hrs,116000000.0,USME,18.9,680.0,True,False,False,True,True
+60000,2,10,44.0,3,1,0,0,Apartamento,24 hrs,125000000.0,USME,18.9,680.0,True,False,False,True,False
+110000,3,3,45.0,3,1,0,1,Apartamento,24 hrs,181845000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+414000,4,24,82.0,3,2,2,0,Apartamento,24 hrs,415000000.0,SUBA,9.8,750.0,True,False,False,True,True
+268000,3,11,54.0,3,2,0,0,Apartamento,24 hrs,233000000.0,ANTONIO NARINO,13.5,830.0,True,False,False,True,True
+65000,2,12,48.0,3,2,0,0,Apartamento,24 hrs,136500000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+893000,6,30,143.0,4,4,2,1,Apartamento,24 hrs,700000000.0,USAQUEN,8.5,850.0,True,True,False,True,False
+712000,5,26,117.0,2,4,1,1,Apartamento,24 hrs,656800000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+88200,2,10,48.0,3,1,0,0,Apartamento,24 hrs,110380000.0,USME,18.9,680.0,True,False,False,True,False
+67000,2,24,36.0,2,1,0,0,Apartamento,24 hrs,125000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+300000,5,26,66.0,2,2,1,0,Apartamento,No,350000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+46000,1,7,57.0,3,1,0,0,Apartamento,24 hrs,165000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+127000,3,12,54.0,3,2,0,1,Apartamento,24 hrs,219000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+539000,5,5,100.0,3,3,1,1,Apartamento,24 hrs,626000000.0,SUBA,9.8,750.0,True,True,False,True,True
+75000,1,5,44.0,2,1,0,1,Apartamento,24 hrs,117000000.0,SUBA,9.8,750.0,True,False,False,True,False
+90000,3,20,49.0,3,1,0,0,Apartamento,24 hrs,152885000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+236201,3,28,61.0,3,2,1,0,Apartamento,24 hrs,290000000.0,SUBA,9.8,750.0,True,False,False,True,True
+67000,1,7,48.0,3,1,0,0,Apartamento,24 hrs,130000000.0,USME,18.9,680.0,True,False,False,True,True
+214000,3,4,71.0,3,2,1,3,Apartamento,24 hrs,341000000.0,KENNEDY,25.4,950.0,True,True,True,True,True
+87700,2,10,46.0,2,1,0,0,Apartamento,24 hrs,155000000.0,BOSA,21.5,880.0,True,False,False,True,True
+58000,3,20,68.0,3,2,0,0,casa con conjunto cerrado,24 hrs,241430000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+193500,3,10,55.0,3,1,0,2,Apartamento,24 hrs,234000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+199300,4,1,39.0,2,1,0,3,Apartamento,No,278000000.0,SUBA,9.8,750.0,True,False,False,True,True
+144800,3,10,59.0,3,2,0,3,Apartamento,24 hrs,176200000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+0,2,15,42.0,3,0,0,0,Apartamento,24 hrs,123200000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+242000,3,5,71.0,3,2,1,1,Apartamento,24 hrs,330000000.0,KENNEDY,25.4,950.0,True,True,True,True,True
+75000,2,10,57.0,3,2,0,0,Apartamento,24 hrs,160000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+69000,2,17,62.0,3,1,0,0,Casa,24 hrs,167613000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+578000,5,6,55.0,2,2,1,1,Apartamento,24 hrs,420000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+660000,5,8,83.0,2,2,2,1,Apartamento,24 hrs,580000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+495000,4,7,83.0,2,2,2,1,Apartamento,24 hrs,570000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+816000,5,32,85.0,1,2,2,1,Apartamento,24 hrs,600000000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+350000,4,30,89.0,3,2,1,2,Apartamento,24 hrs,360000000.0,SUBA,9.8,750.0,True,False,False,True,False
+170000,4,1,41.0,2,1,0,2,Apartamento,24 hrs,217100000.0,SUBA,9.8,750.0,True,False,False,True,False
+58000,2,14,44.0,2,1,0,0,Apartamento,24 hrs,123290000.0,BOSA,21.5,880.0,True,False,False,True,False
+200000,4,1,39.0,1,1,0,2,Apartamento,24 hrs,253000000.0,SUBA,9.8,750.0,True,False,False,True,True
+745000,4,32,117.0,4,2,1,1,Apartamento,24 hrs,440000000.0,SUBA,9.8,750.0,True,False,False,True,False
+268000,3,31,52.0,3,1,1,0,Apartamento,24 hrs,224100000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+45000,2,6,50.0,2,1,0,0,Apartamento,24 hrs,105500000.0,USME,18.9,680.0,True,False,False,True,True
+414000,4,35,38.0,1,1,1,1,Apartamento,24 hrs,240000000.0,CHAPINERO,5.2,1050.0,True,True,False,True,False
+1976535,4,10,193.0,3,4,3,1,Apartamento,24 hrs,1530000000.0,CHAPINERO,5.2,1050.0,True,True,False,True,True
+900000,5,11,104.0,3,2,2,1,Apartamento,24 hrs,540000000.0,SUBA,9.8,750.0,True,False,True,True,True
+175000,3,23,64.0,3,1,0,0,Apartamento,24 hrs,260000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+159200,3,16,58.0,3,2,0,0,Apartamento,24 hrs,226000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+559000,4,35,59.0,1,1,1,1,Apartamento,24 hrs,333360000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+40000,2,7,45.0,2,1,0,0,Apartamento,24 hrs,100000000.0,USME,18.9,680.0,True,False,False,True,False
+80300,2,6,51.0,3,2,0,0,Apartamento,24 hrs,150500000.0,KENNEDY,25.4,950.0,True,False,True,True,False
+267000,4,25,93.0,3,1,1,0,Apartamento,No,430670000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+514500,4,29,59.0,1,2,1,1,Apartamento,No,380000000.0,CHAPINERO,5.2,1050.0,True,False,False,True,False
+596000,5,12,67.0,2,2,1,1,Apartamento,24 hrs,410000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+289000,4,28,75.0,2,2,1,0,Apartamento,24 hrs,313000000.0,SUBA,9.8,750.0,True,False,False,True,True
+120000,3,1,43.0,2,1,0,1,Apartamento,24 hrs,184000000.0,BOSA,21.5,880.0,True,False,False,True,True
+400000,4,30,95.0,4,3,1,3,Apartamento,24 hrs,650000000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+220000,3,6,46.0,2,2,1,1,Apartamento,24 hrs,243600000.0,FONTIBON,10.1,810.0,True,True,False,True,True
+170000,4,2,39.0,3,2,0,2,Apartamento,24 hrs,220000000.0,SUBA,9.8,750.0,True,False,False,True,False
+145000,2,8,62.0,3,2,0,3,Apartamento,24 hrs,175670000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+231000,3,19,66.0,3,3,1,0,Apartamento,24 hrs,276000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+65000,1,6,48.0,3,1,0,0,Apartamento,24 hrs,129000000.0,USME,18.9,680.0,True,False,False,True,True
+245000,4,26,68.0,3,2,1,0,Apartamento,24 hrs,352000000.0,SUBA,9.8,750.0,True,True,False,True,True
+123000,3,1,26.0,1,1,0,1,Apartamento,24 hrs,163000000.0,PUENTE ARANDA,15.9,870.0,True,False,False,True,True
+470000,4,19,95.0,3,3,1,1,Apartamento,24 hrs,739375000.0,TEUSAQUILLO,6.5,1100.0,True,True,True,True,True
+69000,3,17,37.0,2,1,0,0,Apartamento,24 hrs,134000000.0,SUBA,9.8,750.0,True,False,False,True,True
+100800,3,3,39.0,2,1,0,2,Apartamento,24 hrs,175000000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+198900,3,20,65.0,3,2,0,0,Apartamento,24 hrs,265000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+195000,3,28,62.0,3,2,0,0,Apartamento,24 hrs,237000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+173000,3,20,69.0,3,2,1,0,Apartamento,24 hrs,240000000.0,SUBA,9.8,750.0,True,False,False,True,True
+55000,2,11,45.0,2,1,0,0,Apartamento,24 hrs,115471000.0,USME,18.9,680.0,True,False,False,True,True
+79800,2,17,32.0,2,1,0,0,Apartamento,24 hrs,112000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+174000,3,32,53.0,3,2,0,0,Apartamento,24 hrs,220000000.0,PUENTE ARANDA,15.9,870.0,True,False,False,True,False
+68000,2,17,38.0,2,1,0,0,Apartamento,24 hrs,116000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+66000,2,15,42.0,3,1,0,0,Apartamento,24 hrs,128000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+125000,4,15,52.0,3,2,0,0,Apartamento,24 hrs,239200000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+345000,4,6,74.0,3,2,1,1,Apartamento,24 hrs,405000000.0,SUBA,9.8,750.0,True,False,False,True,True
+0,4,13,117.0,3,2,2,1,Apartamento,24 hrs,550000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+420000,5,28,77.0,2,2,1,1,Apartamento,24 hrs,387000000.0,SUBA,9.8,750.0,True,True,False,True,True
+320000,3,30,65.0,3,2,1,0,Apartamento,24 hrs,340000000.0,SUBA,9.8,750.0,True,False,False,True,False
+130000,3,2,50.0,3,1,0,1,Apartamento,24 hrs,150000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+40000,2,7,45.0,2,1,0,0,Apartamento,24 hrs,85000000.0,USME,18.9,680.0,True,False,False,True,False
+500000,4,35,143.0,3,3,1,0,Apartamento,No,615000000.0,BARRIOS UNIDOS,7.7,920.0,True,False,False,True,False
+140000,3,11,41.0,2,1,0,0,Apartamento,24 hrs,170000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+388500,5,32,51.0,1,1,1,1,Apartamento,24 hrs,356000000.0,CHAPINERO,5.2,1050.0,True,False,True,True,True
+100000,2,10,48.0,3,1,0,0,Apartamento,24 hrs,134000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+599999,4,20,86.0,3,2,1,1,Apartamento,24 hrs,525000000.0,CHAPINERO,5.2,1050.0,True,True,True,True,False
+297000,4,29,76.0,3,2,1,0,Apartamento,No,392000000.0,SUBA,9.8,750.0,True,False,False,True,True
+120000,3,20,82.0,4,2,0,0,casa con conjunto cerrado,24 hrs,275000000.0,SUBA,9.8,750.0,True,False,False,True,True
+140000,3,31,65.0,3,2,0,0,Apartamento,24 hrs,263150000.0,PUENTE ARANDA,15.9,870.0,True,False,False,True,True
+198000,3,20,57.0,3,2,1,0,Apartamento,24 hrs,242000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+40000,2,8,38.0,2,1,0,0,Apartamento,24 hrs,95000000.0,USME,18.9,680.0,True,False,False,True,True
+358000,3,19,74.0,3,3,2,0,Casa,24 hrs,355000000.0,SUBA,9.8,750.0,True,False,False,True,False
+94500,2,16,45.0,3,1,0,0,Apartamento,24 hrs,155500000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+207500,3,14,67.0,3,2,0,1,Apartamento,24 hrs,295000000.0,SUBA,9.8,750.0,True,False,True,True,True
+121400,3,12,60.0,3,2,0,0,Apartamento,24 hrs,190000000.0,SUBA,9.8,750.0,True,False,False,True,False
+132900,3,20,55.0,3,2,0,0,Apartamento,24 hrs,247000000.0,SAN CRISTOBAL,12.8,720.0,True,False,False,True,True
+78300,2,14,47.0,3,1,0,0,Apartamento,24 hrs,139000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+78300,2,14,47.0,3,1,0,0,Apartamento,24 hrs,134000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+181100,2,11,44.0,2,1,0,0,Apartamento,24 hrs,160000000.0,SUBA,9.8,750.0,True,False,False,True,False
+95700,3,7,45.0,3,1,0,1,Apartamento,24 hrs,154000000.0,RAFAEL URIBE URIBE,17.1,700.0,True,False,False,True,True
+82000,2,16,42.0,3,1,0,0,Apartamento,24 hrs,140000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+102000,2,6,47.0,2,1,0,1,Apartamento,24 hrs,166000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,True,True,False
+160600,4,12,61.0,3,2,0,0,Apartamento,24 hrs,255000000.0,USAQUEN,8.5,850.0,True,False,True,True,True
+70000,3,9,47.0,3,1,0,0,Apartamento,24 hrs,174500000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+174908,4,39,74.0,2,2,1,0,Apartamento,No,300000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+179800,2,9,54.0,2,1,0,0,casa con conjunto cerrado,24 hrs,184600000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+360000,4,6,72.0,2,2,1,1,Apartamento,24 hrs,419000000.0,BARRIOS UNIDOS,7.7,920.0,True,False,False,True,False
+400000,5,26,71.0,3,2,1,0,Apartamento,24 hrs,296000000.0,SUBA,9.8,750.0,True,True,False,True,False
+63600,2,12,41.0,2,1,0,0,Apartamento,24 hrs,120000000.0,USME,18.9,680.0,True,False,False,True,True
+171000,3,25,68.0,3,2,1,0,Apartamento,No,239580000.0,SUBA,9.8,750.0,True,False,False,True,True
+250000,3,32,61.0,3,2,1,0,Apartamento,No,255000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+143000,3,22,75.0,3,2,0,0,Apartamento,24 hrs,276000000.0,KENNEDY,25.4,950.0,False,False,False,False,False
+157000,3,8,44.0,3,1,1,1,Apartamento,24 hrs,200000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,True
+317100,3,28,61.0,2,1,1,0,Apartamento,24 hrs,280000000.0,BARRIOS UNIDOS,7.7,920.0,True,False,False,True,True
+215800,3,6,66.0,3,2,1,1,Apartamento,24 hrs,230000000.0,SUBA,9.8,750.0,True,False,False,True,False
+570000,4,12,62.0,2,2,1,1,Apartamento,24 hrs,400000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+139000,2,10,45.0,3,2,0,1,Apartamento,24 hrs,186000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+167000,3,14,66.0,3,2,0,0,Apartamento,24 hrs,235000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+150000,6,26,97.0,3,2,2,1,Apartamento,24 hrs,464400000.0,USAQUEN,8.5,850.0,False,True,False,False,False
+448000,4,10,73.0,1,2,1,1,Apartamento,24 hrs,482000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+130400,3,6,50.0,3,1,0,2,Apartamento,24 hrs,154000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+135000,3,39,57.0,3,1,1,0,Apartamento,24 hrs,213000000.0,ENGATIVA,11.3,790.0,True,True,False,True,True
+220000,5,3,68.0,2,2,1,1,Apartamento,No,418000000.0,SUBA,9.8,750.0,True,False,False,True,True
+83300,3,12,48.0,2,2,0,0,Apartamento,24 hrs,155000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,False
+57000,2,7,41.0,2,1,0,0,Apartamento,24 hrs,102000000.0,USME,18.9,680.0,True,False,False,True,True
+66800,2,12,42.0,2,1,0,0,Apartamento,24 hrs,130000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+142600,3,0,35.0,1,1,0,1,Apartamento,24 hrs,205000000.0,USAQUEN,8.5,850.0,True,False,True,True,True
+180000,3,32,59.0,3,2,1,0,Apartamento,24 hrs,250000000.0,SUBA,9.8,750.0,True,False,False,True,False
+202500,3,3,68.0,3,2,1,3,Apartamento,24 hrs,320000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+367000,4,4,71.0,3,2,1,1,Apartamento,24 hrs,456500000.0,SUBA,9.8,750.0,True,True,False,True,True
+250000,3,14,78.0,3,2,1,1,Apartamento,24 hrs,341480000.0,SUBA,9.8,750.0,True,False,False,True,True
+45000,2,15,55.0,3,1,0,0,Apartamento,24 hrs,117000000.0,USME,18.9,680.0,True,False,False,True,True
+515000,4,29,104.0,3,3,1,1,Apartamento,24 hrs,470000000.0,TEUSAQUILLO,6.5,1100.0,True,True,True,True,False
+76500,3,20,44.0,2,1,0,0,Apartamento,24 hrs,139000000.0,SUBA,9.8,750.0,True,False,False,True,False
+50000,2,7,44.0,2,1,0,0,Apartamento,24 hrs,98000000.0,USME,18.9,680.0,False,False,False,False,True
+331527,3,4,40.0,1,1,0,1,Apartamento,24 hrs,230000000.0,TEUSAQUILLO,6.5,1100.0,True,False,False,True,True
+104000,3,4,45.0,3,1,0,1,Apartamento,24 hrs,175000000.0,SAN CRISTOBAL,12.8,720.0,True,False,False,True,True
+143000,3,0,35.0,1,1,0,1,Apartamento,24 hrs,250000000.0,USAQUEN,8.5,850.0,False,False,True,False,True
+463,4,31,66.0,3,2,1,0,Apartamento,24 hrs,270000000.0,USAQUEN,8.5,850.0,True,False,True,True,True
+388000,3,12,86.0,3,2,1,1,Apartamento,24 hrs,419250000.0,SUBA,9.8,750.0,True,False,True,True,True
+45000,2,8,49.0,3,1,0,0,Apartamento,24 hrs,110000000.0,USME,18.9,680.0,True,False,False,True,True
+88199,2,9,48.0,3,1,0,0,Apartamento,24 hrs,110800000.0,USME,18.9,680.0,True,False,False,True,True
+179400,3,9,56.0,3,2,0,0,Apartamento,No,221000000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+438000,3,7,84.0,3,2,1,1,Apartamento,24 hrs,440000000.0,SUBA,9.8,750.0,True,True,False,True,False
+597000,5,24,105.0,3,3,1,1,Apartamento,24 hrs,500000000.0,SUBA,9.8,750.0,True,True,False,True,True
+85000,2,21,47.0,3,1,0,0,Apartamento,24 hrs,145500000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+325000,4,30,75.0,3,2,0,1,Apartamento,24 hrs,365300000.0,CHAPINERO,5.2,1050.0,True,False,False,True,True
+535000,5,26,70.0,2,2,1,1,Apartamento,24 hrs,395600000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+88000,3,21,52.0,2,2,1,0,Apartamento,24 hrs,198320000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+235000,3,30,56.0,2,1,1,0,Apartamento,24 hrs,228000000.0,KENNEDY,25.4,950.0,False,False,False,False,False
+125000,2,9,47.0,3,1,0,0,Apartamento,24 hrs,145000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+50000,1,8,57.0,3,1,0,0,Apartamento,24 hrs,155000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+109000,2,28,52.0,2,1,0,0,Apartamento,24 hrs,160000000.0,SUBA,9.8,750.0,True,False,False,True,True
+71000,2,6,51.0,2,2,0,0,Apartamento,24 hrs,151000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+200500,3,25,57.0,3,2,0,0,Apartamento,No,225000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+278000,4,31,47.0,1,1,1,1,Apartamento,24 hrs,275000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+68000,2,13,48.0,3,1,0,0,Apartamento,24 hrs,133500000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+67000,3,17,41.0,2,1,0,0,Casa,24 hrs,145800000.0,SUBA,9.8,750.0,True,False,True,True,False
+0,4,25,64.0,3,2,1,1,Apartamento,24 hrs,310000000.0,SUBA,9.8,750.0,True,False,False,True,True
+62000,3,29,54.0,3,1,0,0,Apartamento,24 hrs,165000000.0,SUBA,9.8,750.0,True,False,True,True,False
+125000,2,8,59.0,3,2,0,3,Apartamento,24 hrs,177000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,True,True,True
+93000,2,14,37.0,2,1,0,0,Apartamento,24 hrs,125500000.0,SUBA,9.8,750.0,True,False,False,True,True
+479000,5,18,75.0,3,2,2,1,Apartamento,24 hrs,447400000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+150000,3,24,49.0,3,1,0,0,Apartamento,24 hrs,190000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+313300,4,15,68.0,3,2,0,1,Apartamento,24 hrs,390000000.0,SUBA,9.8,750.0,True,True,True,True,True
+660400,5,5,68.0,2,2,2,1,Apartamento,24 hrs,450000000.0,SUBA,9.8,750.0,True,True,False,True,False
+350000,4,19,76.0,3,2,1,1,Apartamento,24 hrs,365000000.0,SUBA,9.8,750.0,True,True,False,True,True
+683000,6,12,63.0,2,2,0,1,Apartamento,24 hrs,480000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+76500,3,20,44.0,2,1,0,0,Apartamento,24 hrs,152000000.0,SUBA,9.8,750.0,True,False,False,True,True
+260000,4,21,61.0,3,2,1,0,Apartamento,24 hrs,269000000.0,SUBA,9.8,750.0,True,False,False,True,True
+220000,5,7,69.0,2,2,1,2,Apartamento,No,420000000.0,SUBA,9.8,750.0,True,False,False,True,False
+52000,2,13,45.0,2,1,0,0,Apartamento,24 hrs,119000000.0,USME,18.9,680.0,True,False,False,True,True
+231600,4,40,73.0,3,2,0,0,Apartamento,24 hrs,285000000.0,SUBA,9.8,750.0,True,False,False,True,True
+143100,3,9,48.0,2,1,0,2,Apartamento,24 hrs,185000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+124200,3,9,54.0,3,2,0,2,Apartamento,24 hrs,196000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+0,4,24,67.0,2,2,1,0,Apartamento,24 hrs,330350000.0,SUBA,9.8,750.0,True,False,True,True,True
+1002600,6,29,94.0,3,3,1,1,Apartamento,No,465000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+49000,2,6,48.0,3,1,0,0,Apartamento,24 hrs,125400000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+50000,4,6,51.0,1,1,1,1,Apartamento,24 hrs,302000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+0,4,30,71.0,3,2,0,0,Apartamento,24 hrs,285000000.0,SUBA,9.8,750.0,True,False,False,True,True
+55000,2,13,45.0,2,1,0,0,Apartamento,24 hrs,118400000.0,USME,18.9,680.0,True,False,False,True,True
+50000,1,5,48.0,3,1,0,0,Apartamento,24 hrs,133000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+0,3,26,70.0,3,2,0,0,Apartamento,24 hrs,320000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+375000,4,36,75.0,3,2,1,1,Apartamento,24 hrs,357000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+86100,2,10,41.0,2,1,0,0,Apartamento,24 hrs,145000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+239000,4,12,85.0,3,2,1,1,Apartamento,24 hrs,473800000.0,SUBA,9.8,750.0,True,False,False,True,True
+103000,3,2,53.0,3,1,0,2,Apartamento,24 hrs,173900000.0,FONTIBON,10.1,810.0,True,True,False,True,True
+477000,5,5,51.0,1,2,1,1,Apartamento,24 hrs,360000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+615500,4,8,90.0,3,2,2,1,Apartamento,24 hrs,530000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+208000,3,2,66.0,3,2,1,3,Apartamento,24 hrs,280300000.0,KENNEDY,25.4,950.0,True,True,True,True,True
+217100,4,20,59.0,3,2,1,0,Apartamento,24 hrs,270000000.0,SUBA,9.8,750.0,True,False,False,True,True
+392000,3,7,55.0,2,2,1,1,Apartamento,24 hrs,295000000.0,SUBA,9.8,750.0,False,False,False,False,False
+363000,4,28,42.0,1,1,1,1,Apartamento,24 hrs,313500000.0,USAQUEN,8.5,850.0,True,True,False,True,False
+49600,4,3,51.0,3,2,0,2,Apartamento,24 hrs,167450000.0,FONTIBON,10.1,810.0,False,False,False,False,False
+0,6,20,70.0,2,2,1,1,Apartamento,No,481800000.0,CHAPINERO,5.2,1050.0,False,False,False,False,False
+385000,5,16,69.0,2,3,1,1,Apartamento,24 hrs,385000000.0,SUBA,9.8,750.0,True,True,False,True,True
+461000,5,30,61.0,2,2,1,1,Apartamento,24 hrs,327800000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+63800,2,14,55.0,3,2,0,0,Apartamento,24 hrs,145000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+54650,2,11,42.0,2,1,0,0,Apartamento,24 hrs,116000000.0,USME,18.9,680.0,True,False,False,True,False
+206000,3,20,80.0,3,2,1,0,Apartamento,24 hrs,280000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+72700,3,19,52.0,2,2,0,0,Apartamento,24 hrs,182000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+150500,2,1,49.0,2,2,0,1,Apartamento,24 hrs,175000000.0,BOSA,21.5,880.0,True,False,False,True,True
+147100,3,21,55.0,3,2,0,0,Apartamento,24 hrs,181000000.0,SUBA,9.8,750.0,True,False,False,True,True
+254600,3,15,78.0,3,2,1,1,Apartamento,24 hrs,352000000.0,SUBA,9.8,750.0,False,False,False,False,False
+57000,2,11,45.0,2,1,0,0,Apartamento,24 hrs,116000000.0,USME,18.9,680.0,True,False,False,True,True
+140800,3,17,68.0,4,2,1,0,casa con conjunto cerrado,24 hrs,290000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+186000,4,0,31.0,1,1,0,1,Apartamento,24 hrs,230000000.0,CHAPINERO,5.2,1050.0,False,False,False,False,False
+127000,3,22,49.0,3,1,0,0,Apartamento,24 hrs,190000000.0,ENGATIVA,11.3,790.0,False,False,False,False,True
+110000,3,2,53.0,3,1,0,1,Apartamento,24 hrs,152000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+41100,2,18,38.0,2,1,0,0,Apartamento,24 hrs,124800000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+138000,3,7,64.0,3,2,1,1,Apartamento,No,355000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+264000,4,8,48.0,1,1,1,1,Apartamento,No,281400000.0,USAQUEN,8.5,850.0,True,True,False,True,False
+533000,4,15,83.0,3,2,1,1,Apartamento,24 hrs,377400000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+518300,4,16,58.0,1,1,1,1,Apartamento,No,390000000.0,CHAPINERO,5.2,1050.0,False,False,False,False,False
+629100,5,17,84.0,2,2,2,1,Apartamento,24 hrs,450000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+92000,2,18,50.0,2,1,0,0,casa con conjunto cerrado,24 hrs,150000000.0,KENNEDY,25.4,950.0,False,False,False,False,True
+89600,2,24,34.0,2,1,0,0,Apartamento,No,95000000.0,RAFAEL URIBE URIBE,17.1,700.0,True,True,False,True,False
+374400,5,9,76.0,2,3,1,1,Apartamento,24 hrs,409000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+220000,3,4,63.0,3,2,1,1,Apartamento,24 hrs,255000000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+405000,4,29,67.0,2,2,1,1,Apartamento,24 hrs,291000000.0,SUBA,9.8,750.0,True,True,False,True,False
+55000,2,15,36.0,2,1,0,0,Apartamento,24 hrs,110000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+0,4,6,87.0,3,2,1,2,Apartamento,24 hrs,427000000.0,SUBA,9.8,750.0,True,True,False,True,True
+1433000,5,31,207.0,4,3,2,1,Apartamento,24 hrs,1200000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+90000,3,3,40.0,2,1,0,1,Apartamento,24 hrs,180000000.0,CIUDAD BOLIVAR,35.0,650.0,True,False,False,True,False
+366000,3,8,85.0,3,2,1,0,Apartamento,24 hrs,390000000.0,SUBA,9.8,750.0,True,False,False,True,True
+592000,5,29,100.0,3,3,1,1,Apartamento,24 hrs,422900000.0,USAQUEN,8.5,850.0,False,True,False,False,False
+280000,4,1,66.0,3,2,1,1,Apartamento,24 hrs,482000000.0,FONTIBON,10.1,810.0,False,True,True,False,True
+133400,3,16,50.0,3,1,0,0,Apartamento,24 hrs,173000000.0,SUBA,9.8,750.0,True,False,False,True,True
+200000,3,8,50.0,2,1,0,0,Apartamento,24 hrs,180000000.0,SUBA,9.8,750.0,False,False,False,False,True
+175000,4,5,68.0,3,2,1,1,Apartamento,24 hrs,321200000.0,KENNEDY,25.4,950.0,True,True,True,True,True
+60000,2,16,48.0,2,1,0,0,casa con conjunto cerrado,24 hrs,139000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+460800,5,28,72.0,2,2,1,0,Apartamento,24 hrs,330000000.0,SUBA,9.8,750.0,True,False,False,True,True
+34000,2,9,49.0,2,1,0,0,Apartamento,24 hrs,120000000.0,USME,18.9,680.0,True,False,False,True,True
+370200,5,33,69.0,2,2,0,1,Apartamento,24 hrs,334000000.0,SUBA,9.8,750.0,True,False,False,True,True
+48000,1,6,46.0,3,1,0,0,Apartamento,24 hrs,95900000.0,USME,18.9,680.0,True,False,False,True,True
+45000,2,14,42.0,2,1,0,0,Apartamento,24 hrs,116000000.0,USME,18.9,680.0,True,False,False,True,True
+72000,2,21,45.0,2,1,0,0,casa con conjunto cerrado,24 hrs,165000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+63000,2,18,63.0,3,2,0,0,casa con conjunto cerrado,24 hrs,178000000.0,ENGATIVA,11.3,790.0,False,True,True,False,True
+94600,3,5,32.0,2,1,0,1,Apartamento,24 hrs,137000000.0,SAN CRISTOBAL,12.8,720.0,True,False,False,True,True
+214400,3,1,59.0,2,2,1,2,Apartamento,24 hrs,440000000.0,SUBA,9.8,750.0,True,True,False,True,True
+322000,4,6,50.0,1,2,1,1,Apartamento,24 hrs,325000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+220000,4,19,50.0,3,2,1,1,Apartamento,24 hrs,353758000.0,USAQUEN,8.5,850.0,False,False,False,False,True
+65500,2,11,42.0,3,1,0,0,Apartamento,24 hrs,120700000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+187000,3,28,72.0,4,2,1,0,casa con conjunto cerrado,24 hrs,330000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+0,2,23,72.0,8,4,1,0,Casa,No,450000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+77300,2,25,51.0,3,1,0,0,Apartamento,24 hrs,150000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+300000,4,25,95.0,3,3,1,1,Apartamento,24 hrs,510000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+70000,2,14,46.0,3,1,0,0,Apartamento,24 hrs,130000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+400000,5,20,55.0,1,1,1,2,Apartamento,24 hrs,340000000.0,CHAPINERO,5.2,1050.0,False,True,False,False,True
+63000,3,28,66.0,4,2,2,0,Apartamento,24 hrs,260000000.0,ENGATIVA,11.3,790.0,True,False,True,True,False
+561000,5,31,95.0,4,3,2,2,Apartamento,24 hrs,530000000.0,SUBA,9.8,750.0,True,False,False,True,True
+40000,5,23,114.0,3,3,2,0,Apartamento,No,485000000.0,USAQUEN,8.5,850.0,False,True,False,False,True
+55000,2,19,47.0,2,1,0,0,Apartamento,24 hrs,115000000.0,BOSA,21.5,880.0,True,False,False,True,True
+78300,2,13,47.0,3,1,0,0,Apartamento,24 hrs,130000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+61300,2,18,62.0,3,1,0,0,casa con conjunto cerrado,24 hrs,181000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+84600,3,39,50.0,2,1,0,0,Apartamento,24 hrs,180000000.0,SUBA,9.8,750.0,True,False,False,True,False
+55000,2,3,47.0,3,1,0,0,Apartamento,24 hrs,127800000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+60000,2,4,52.0,3,1,0,2,Apartamento,24 hrs,154000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+180000,3,20,68.0,3,2,0,0,casa con conjunto cerrado,24 hrs,265000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+85000,2,8,39.0,2,1,0,0,Apartamento,24 hrs,140000000.0,SUBA,9.8,750.0,True,True,False,True,True
+400000,4,28,96.0,3,2,1,1,Apartamento,24 hrs,486000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+62200,2,8,57.0,3,1,0,0,Apartamento,24 hrs,145000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+90000,3,19,50.0,2,1,0,0,Apartamento,24 hrs,125000000.0,BOSA,21.5,880.0,False,False,False,False,False
+58000,2,5,48.0,3,1,0,0,Apartamento,24 hrs,127700000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+392000,5,34,76.0,3,2,1,1,Apartamento,24 hrs,385000000.0,SUBA,9.8,750.0,True,True,False,True,True
+121000,3,2,47.0,3,2,0,1,Apartamento,24 hrs,180000000.0,FONTIBON,10.1,810.0,False,False,False,False,True
+350000,4,15,90.0,3,2,2,1,Apartamento,24 hrs,470000000.0,SUBA,9.8,750.0,True,False,False,True,True
+352000,6,35,71.0,3,2,1,1,Apartamento,24 hrs,358000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+53000,1,6,47.0,3,1,0,0,Apartamento,24 hrs,124500000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+461000,5,34,72.0,3,2,1,1,Apartamento,24 hrs,360000000.0,SUBA,9.8,750.0,True,True,False,True,True
+50000,2,10,48.0,2,1,0,0,Apartamento,24 hrs,110000000.0,USME,18.9,680.0,True,False,False,True,True
+317000,4,36,95.0,3,2,1,0,Apartamento,24 hrs,422000000.0,USAQUEN,8.5,850.0,True,False,False,True,False
+377000,4,11,73.0,3,2,1,2,Apartamento,24 hrs,415000000.0,SUBA,9.8,750.0,True,False,False,True,True
+180000,4,17,78.0,3,3,1,0,casa con conjunto cerrado,24 hrs,385000000.0,SUBA,9.8,750.0,True,True,False,True,True
+336000,3,20,63.0,3,2,1,0,Apartamento,24 hrs,257000000.0,USAQUEN,8.5,850.0,False,False,False,False,False
+0,3,48,45.0,4,4,1,0,Casa,No,450000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+666700,5,32,86.0,3,2,2,0,Apartamento,24 hrs,437472000.0,USAQUEN,8.5,850.0,False,True,False,False,True
+67500,2,13,47.0,3,1,0,0,Apartamento,24 hrs,155000000.0,KENNEDY,25.4,950.0,True,True,False,True,False
+240800,3,32,54.0,2,1,1,0,Apartamento,24 hrs,230000000.0,SUBA,9.8,750.0,True,False,False,True,False
+58300,1,5,48.0,3,1,0,0,Apartamento,24 hrs,127000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+204600,3,5,38.0,1,1,0,1,Apartamento,24 hrs,270000000.0,CHAPINERO,5.2,1050.0,True,False,False,True,True
+426000,5,10,85.0,2,3,2,1,Apartamento,24 hrs,500000000.0,USAQUEN,8.5,850.0,False,False,False,False,True
+0,2,44,126.0,6,3,1,0,Casa,No,490000000.0,BOSA,21.5,880.0,True,False,False,True,False
+274327,4,7,71.0,3,2,0,1,Apartamento,24 hrs,280000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+793000,6,13,83.0,2,2,1,1,Apartamento,24 hrs,444350000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+121000,2,2,48.0,3,2,0,1,Apartamento,24 hrs,174000000.0,FONTIBON,10.1,810.0,True,False,False,True,True
+189000,2,8,43.0,2,1,0,2,Apartamento,24 hrs,170000000.0,SUBA,9.8,750.0,True,False,True,True,True
+57000,2,5,47.0,3,1,0,0,Apartamento,24 hrs,125000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+364601,6,2,31.0,1,1,1,1,Apartamento,24 hrs,376785000.0,CHAPINERO,5.2,1050.0,True,True,True,True,True
+124900,3,9,55.0,3,2,0,1,Apartamento,No,165000000.0,CIUDAD BOLIVAR,35.0,650.0,False,False,False,False,False
+0,3,23,45.0,3,2,0,0,Casa,No,320000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+0,2,7,43.0,2,1,0,0,Apartamento,24 hrs,150000000.0,SUBA,9.8,750.0,True,False,False,True,False
+516200,6,17,71.0,2,2,2,1,Apartamento,24 hrs,492000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+100200,2,2,56.0,3,2,0,0,Apartamento,24 hrs,171000000.0,SUBA,9.8,750.0,True,False,False,True,True
+218000,3,29,61.0,3,2,0,0,Apartamento,24 hrs,220000000.0,ENGATIVA,11.3,790.0,False,False,False,False,True
+274700,3,7,75.0,3,2,1,1,Apartamento,24 hrs,378000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+319000,4,13,73.0,3,2,1,1,Apartamento,24 hrs,300000000.0,SUBA,9.8,750.0,False,False,False,False,True
+190000,3,18,65.0,3,2,2,0,Apartamento,24 hrs,260000000.0,SUBA,9.8,750.0,True,False,False,True,False
+587000,4,31,122.0,3,3,1,1,Apartamento,24 hrs,495000000.0,USAQUEN,8.5,850.0,True,True,False,True,False
+40000,2,8,38.0,2,1,0,0,Apartamento,24 hrs,93000000.0,USME,18.9,680.0,True,False,False,True,True
+54000,2,9,48.0,3,1,0,0,Apartamento,24 hrs,105400000.0,USME,18.9,680.0,True,False,False,True,True
+50000,4,19,105.0,4,3,1,0,casa con conjunto cerrado,24 hrs,400000000.0,USAQUEN,8.5,850.0,False,False,False,False,True
+0,3,20,49.0,2,2,0,0,casa con conjunto cerrado,24 hrs,170000000.0,SUBA,9.8,750.0,True,False,False,True,True
+201000,3,13,63.0,2,2,1,1,Apartamento,24 hrs,324000000.0,SUBA,9.8,750.0,True,False,True,True,False
+464000,4,7,59.0,1,2,2,1,Apartamento,24 hrs,355000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+45000,2,19,71.0,4,2,0,0,casa con conjunto cerrado,24 hrs,220000000.0,ENGATIVA,11.3,790.0,True,False,True,True,False
+87000,4,1,36.0,2,1,0,1,Apartamento,24 hrs,202000000.0,SUBA,9.8,750.0,True,False,False,True,True
+40000,2,7,44.0,2,1,0,0,Apartamento,24 hrs,90000000.0,USME,18.9,680.0,True,False,False,True,True
+405700,4,8,105.0,3,2,1,3,Apartamento,24 hrs,535000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+58000,2,14,47.0,2,1,0,0,Apartamento,No,122000000.0,BOSA,21.5,880.0,False,False,False,False,False
+106000,3,4,46.0,2,1,0,1,Apartamento,24 hrs,184000000.0,FONTIBON,10.1,810.0,True,False,False,True,False
+438000,5,38,47.0,2,1,1,1,Apartamento,24 hrs,381000000.0,CHAPINERO,5.2,1050.0,True,False,False,True,True
+387600,3,13,70.0,3,2,1,1,Apartamento,24 hrs,332808000.0,SUBA,9.8,750.0,False,False,False,False,True
+50000,3,14,73.0,3,2,1,0,Apartamento,24 hrs,291750503.0,USAQUEN,8.5,850.0,True,False,False,True,True
+65000,2,6,55.0,3,2,0,0,Apartamento,24 hrs,160000000.0,BOSA,21.5,880.0,True,False,False,True,True
+601000,6,26,89.0,2,3,2,1,Apartamento,24 hrs,465000000.0,SUBA,9.8,750.0,True,False,False,True,True
+354000,4,18,87.0,3,2,1,1,Apartamento,24 hrs,490000000.0,FONTIBON,10.1,810.0,True,False,True,True,True
+97000,3,2,46.0,2,1,0,3,Apartamento,24 hrs,155000000.0,USME,18.9,680.0,True,False,False,True,True
+495000,4,22,82.0,3,2,1,1,Apartamento,24 hrs,450000000.0,SUBA,9.8,750.0,True,False,False,True,False
+457000,6,35,88.0,4,2,2,1,Apartamento,24 hrs,500000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+653000,6,39,70.0,3,2,1,0,Apartamento,24 hrs,337000000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+188000,3,22,62.0,3,2,1,0,Apartamento,24 hrs,274000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+272000,3,16,87.0,3,2,1,0,casa con conjunto cerrado,24 hrs,420000000.0,SUBA,9.8,750.0,True,True,False,True,False
+199000,4,10,55.0,2,2,1,1,Apartamento,24 hrs,290000000.0,SUBA,9.8,750.0,True,False,False,True,True
+495000,5,27,101.0,3,4,1,1,Apartamento,24 hrs,500000000.0,SUBA,9.8,750.0,True,True,False,True,False
+54650,2,12,45.0,2,1,0,0,Apartamento,24 hrs,120000000.0,USME,18.9,680.0,True,False,False,True,True
+60000,1,6,47.0,2,1,0,0,Apartamento,24 hrs,123000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+111000,3,1,49.0,3,2,0,1,Apartamento,24 hrs,175000000.0,FONTIBON,10.1,810.0,False,False,False,False,True
+218000,3,27,70.0,3,2,0,1,Apartamento,24 hrs,225000000.0,SUBA,9.8,750.0,True,False,False,True,True
+50000,3,10,62.0,3,2,1,0,Apartamento,No,240600000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+270000,3,27,86.0,4,2,0,0,casa con conjunto cerrado,24 hrs,365000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+84000,2,12,55.0,3,2,0,0,Apartamento,24 hrs,145660000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+292000,6,38,68.0,2,2,1,0,Apartamento,24 hrs,380000000.0,USAQUEN,8.5,850.0,False,True,False,False,True
+567000,4,37,77.0,2,2,1,1,Apartamento,24 hrs,356000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+76000,2,6,53.0,3,2,0,0,Apartamento,24 hrs,155000000.0,BOSA,21.5,880.0,True,False,False,True,True
+70000,2,25,43.0,3,1,0,0,Apartamento,24 hrs,150000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+212000,3,21,59.0,3,2,1,0,Apartamento,24 hrs,230000000.0,SUBA,9.8,750.0,True,False,False,True,False
+53800,2,13,41.0,2,1,0,0,Apartamento,24 hrs,120000000.0,USME,18.9,680.0,True,False,False,True,True
+118000,3,2,45.0,2,1,0,1,Apartamento,24 hrs,180000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+180000,4,19,63.0,3,2,1,2,Apartamento,24 hrs,270000000.0,SUBA,9.8,750.0,True,False,False,True,True
+0,4,4,70.0,3,2,1,1,Apartamento,No,480000000.0,TEUSAQUILLO,6.5,1100.0,True,True,True,True,True
+184000,3,3,61.0,3,2,0,1,Apartamento,24 hrs,269000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+80000,2,14,50.0,3,2,0,0,Apartamento,24 hrs,141000000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+90000,2,24,51.0,3,1,0,0,Apartamento,24 hrs,155000000.0,ENGATIVA,11.3,790.0,True,False,False,True,False
+85700,2,7,53.0,2,2,0,2,Apartamento,24 hrs,147000000.0,KENNEDY,25.4,950.0,True,False,False,True,False
+320000,4,36,78.0,3,2,1,1,Apartamento,24 hrs,443000000.0,FONTIBON,10.1,810.0,True,True,False,True,False
+70000,2,13,46.0,2,1,0,0,Apartamento,24 hrs,140000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+65000,2,6,57.0,3,2,0,0,Apartamento,24 hrs,147300000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+69000,2,23,43.0,2,1,0,0,Apartamento,24 hrs,132000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+46000,2,12,43.0,2,1,0,0,Apartamento,24 hrs,114000000.0,USME,18.9,680.0,True,False,True,True,True
+84000,2,12,55.0,3,1,0,0,Apartamento,24 hrs,139000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+58700,2,7,57.0,3,1,0,0,Apartamento,24 hrs,160140000.0,USAQUEN,8.5,850.0,True,False,False,True,True
+168000,4,26,50.0,1,2,1,0,Apartamento,24 hrs,290000000.0,USME,18.9,680.0,True,False,False,True,False
+136000,2,17,72.0,3,3,1,0,casa con conjunto cerrado,24 hrs,270300000.0,KENNEDY,25.4,950.0,True,False,True,True,True
+73000,2,7,56.0,3,1,0,0,Apartamento,24 hrs,150000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+176800,3,3,68.0,3,2,1,1,Apartamento,24 hrs,357000000.0,KENNEDY,25.4,950.0,True,True,False,True,True
+51000,1,6,47.0,3,1,0,0,Apartamento,24 hrs,132600000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+108000,3,0,39.0,2,1,0,1,Apartamento,24 hrs,195000000.0,KENNEDY,25.4,950.0,True,False,False,True,True
+155000,2,10,57.0,2,1,0,0,casa con conjunto cerrado,24 hrs,190000000.0,ENGATIVA,11.3,790.0,True,False,False,True,True
+0,4,6,51.0,1,2,1,1,Apartamento,24 hrs,366000000.0,PUENTE ARANDA,15.9,870.0,True,False,True,True,True
+55000,2,17,50.0,3,1,0,0,Apartamento,No,127000000.0,BOSA,21.5,880.0,True,False,False,True,False
+816600,6,32,112.0,3,2,2,1,Apartamento,24 hrs,500000000.0,USAQUEN,8.5,850.0,True,True,False,True,True
+510000,5,29,105.0,3,2,1,0,Apartamento,24 hrs,456000000.0,SUBA,9.8,750.0,True,True,False,True,True
